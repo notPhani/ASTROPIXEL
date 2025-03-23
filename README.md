@@ -75,9 +75,9 @@ df = pd.read_csv("Galaxy_123456/spectrum/spectrum.csv")
 df.plot(x="wavelength", y="flux")
 ```
 ## 🔥 Potential Use Cases
-## 🚀 Astronomical Deep Learning – Train a CNN to reconstruct missing filters
-## 🌌 Galaxy Classification – Differentiate between elliptical & spiral galaxies
-## 🔭 Redshift Estimation – Use spectral features to predict galaxy distances
+*🚀 Astronomical Deep Learning – Train a CNN to reconstruct missing filters*
+*🌌 Galaxy Classification – Differentiate between elliptical & spiral galaxies*
+*🔭 Redshift Estimation – Use spectral features to predict galaxy distances*
 
 ## 📥 Download
 The dataset is available on Kaggle:
